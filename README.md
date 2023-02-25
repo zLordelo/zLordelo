@@ -43,8 +43,3 @@
  <img align="center" src="https://img.shields.io/badge/-zlordelo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img src="https://github.com/zLordelo/zLordelo/blob/1c844b7f8863807ad1200c89ea9a457bca8a862a/63fa601196cb00e4ba36781d.png" height="330px">
-
-
-
