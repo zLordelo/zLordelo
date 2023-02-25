@@ -1,6 +1,6 @@
+<img align="right" height="300em" src="https://github.com/zLordelo/zLordelo/blob/33ae40453ec2d92fcbfd875db5561d15b8c7b9eb/image.png"/>
 <h1 align="left">Hi <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" height="30px">, I'm João Lordelo</h1>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=zLordelo&color=green" alt="Profile views" /></p>
 
 <p align="left">Passionate about front-end development and data visualization!</p>
 
@@ -43,6 +43,8 @@
  <img align="center" src="https://img.shields.io/badge/-zlordelo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<img src="https://github.com/zLordelo/zLordelo/blob/1c844b7f8863807ad1200c89ea9a457bca8a862a/63fa601196cb00e4ba36781d.png" height="330px">
 
 
 
